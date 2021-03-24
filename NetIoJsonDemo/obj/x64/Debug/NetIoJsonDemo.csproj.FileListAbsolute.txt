@@ -1,0 +1,41 @@
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.exe
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.deps.json
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.runtimeconfig.json
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.runtimeconfig.dev.json
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.dll
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\ref\NetIoJsonDemo.dll
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.pdb
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\MainWindow.g.cs
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\App.g.cs
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo_MarkupCompile.cache
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\MainWindow.baml
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.g.resources
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.AssemblyInfoInputs.cache
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.AssemblyInfo.cs
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.csproj.CoreCompileInputs.cache
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.dll
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\ref\NetIoJsonDemo.dll
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.pdb
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.genruntimeconfig.cache
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.csprojAssemblyReference.cache
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.exe
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.deps.json
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.runtimeconfig.json
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.runtimeconfig.dev.json
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.dll
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\ref\NetIoJsonDemo.dll
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\NetIoJsonDemo.pdb
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\MainWindow.baml
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\MainWindow.g.cs
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\App.g.cs
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo_MarkupCompile.cache
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.g.resources
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.AssemblyInfoInputs.cache
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.AssemblyInfo.cs
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.csproj.CoreCompileInputs.cache
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.dll
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\ref\NetIoJsonDemo.dll
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.pdb
+C:\Johannes\Google_Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\NetIoJsonDemo.genruntimeconfig.cache

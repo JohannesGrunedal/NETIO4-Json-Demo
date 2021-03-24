@@ -1,0 +1,28 @@
+C:\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.exe
+C:\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.deps.json
+C:\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.runtimeconfig.json
+C:\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.runtimeconfig.dev.json
+C:\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.dll
+C:\bin\DemoApplication\net5.0-windows\ref\NetIoJsonDemo.dll
+C:\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.pdb
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\MainWindow.g.cs
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\App.g.cs
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo_MarkupCompile.cache
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo_MarkupCompile.lref
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\MainWindow.baml
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo.g.resources
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo.AssemblyInfoInputs.cache
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo.AssemblyInfo.cs
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo.csproj.CoreCompileInputs.cache
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo.dll
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\ref\NetIoJsonDemo.dll
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo.pdb
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\obj\x64\Debug\net5.0-windows\NetIoJsonDemo.genruntimeconfig.cache
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.exe
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.deps.json
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.runtimeconfig.json
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.runtimeconfig.dev.json
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.dll
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\net5.0-windows\ref\NetIoJsonDemo.dll
+C:\Johannes\Google Drive\Programming\Work\Qualisys\NetIoPowerSwitchTester\NetIoPowerSwitchTester_json\NetIoJsonDemo\bin\DemoApplication\net5.0-windows\NetIoJsonDemo.pdb
