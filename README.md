@@ -16,7 +16,6 @@ NOTE!
 This application is tested with NETIO 4, minor changes may be needed to be run on other devices.
 To keep demo simple and short, data validation and error handling is reduced to a minimum.
 
-
 Getting started
  1. Enable read/write in web config M2M API Protocols -> JSON API -> Enable JSON API -> Enable READ-WRITE
  2. Enter username and password (default is netio).
@@ -28,7 +27,6 @@ Getting started
  8. If successful, Info field is populated with current NETIO data (if not, check above settings).
  9. Set selected outputs to ON/OFF using the Control buttons.
 10. Click Status button to read current NETIO putput status.
-
 
 Run standalone
 1. Create a new C#/WPF project.
