@@ -43,5 +43,5 @@ Run standalone
    var output1 = netIoDriver.GetOutputState(NetIoDriver.Output.Output_1);
 9. Enjoy!
 
-Screenshots
+
 ![Screenshot_1](https://user-images.githubusercontent.com/25680930/114847324-e0d01a80-9ddd-11eb-9153-52e04ee76d74.jpg)
