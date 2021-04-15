@@ -2,7 +2,6 @@
 
 Application
 Simple demo application for testing NETIO 4 power switch using Json.
-NETIO 4 Json Demo Application
 
 Author
 © 2021 Johannes Grunedal (grunedal@gmail.com)
@@ -43,3 +42,6 @@ Run standalone
 8. Read output, e.g. read output 1:
    var output1 = netIoDriver.GetOutputState(NetIoDriver.Output.Output_1);
 9. Enjoy!
+
+Screenshots
+![Screenshot_1](https://user-images.githubusercontent.com/25680930/114847324-e0d01a80-9ddd-11eb-9153-52e04ee76d74.jpg)
